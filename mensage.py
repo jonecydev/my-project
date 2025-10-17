@@ -1,2 +1,2 @@
-text = 'Hello Git test'
+text = 'New feature add'
 print(test)
