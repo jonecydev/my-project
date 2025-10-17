@@ -1,0 +1,2 @@
+car = 'FIAT'
+print(car)
