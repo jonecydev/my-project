@@ -1,2 +1,7 @@
-text = 'New feature add'
-print(test)
+mensagem = 'Hello world!'
+print(mensagem)
+
+def saudacao(nome):
+    print(f'Seja bem vindo, {nome}!')
+
+saudacao('JCidade')
